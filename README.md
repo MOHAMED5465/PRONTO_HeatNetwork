@@ -5,10 +5,10 @@
 Projet d’optimisation de réseau de chaleur développé dans le cadre du module PRONTO à IMT Atlantique, semestre 6 (année 2024-2025).
 
 ## Équipe
-
-- Mélina WANG  
-- Mohamed RHARRASSI  
-- Mohamed Amine JANATI  
+  
+- Mohamed RHARRASSI
+- Mohamed Amine JANATI
+- Mélina WANG
 - Rayan BOUAKAR  
 - **Encadré par** : Patrick Meyer & Célia Benmansour
 
