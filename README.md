@@ -1,10 +1,10 @@
-# 🔥 PRONTO – Réseau de Chaleur
+# PRONTO – Réseau de Chaleur
 
 **Chaud pour décider ?**
 
 Projet d’optimisation de réseau de chaleur développé dans le cadre du module PRONTO à IMT Atlantique, semestre 6 (année 2024-2025).
 
-## 👥 Équipe
+## Équipe
 
 - Mélina WANG  
 - Mohamed RHARRASSI  
@@ -12,25 +12,25 @@ Projet d’optimisation de réseau de chaleur développé dans le cadre du modul
 - Rayan BOUAKAR  
 - **Encadré par** : Patrick Meyer & Célia Benmansour
 
-## 🎯 Objectif
+## Objectif
 
 Concevoir des algorithmes d’aide à la décision pour **dimensionner un réseau de chaleur** de manière optimale, en respectant :
 - des **contraintes physiques** (capacité, pertes thermiques, structure arborescente),
 - des **enjeux économiques** (coût d’investissement, revenu, pénalités),
 - et différents **scénarios d’usage** (équité, résilience, efficacité énergétique).
 
-## 🛠️ Fonctionnalités
+## Fonctionnalités
 
 Le projet inclut :
-- ⚙️ **Modélisation mathématique** complète du réseau et des contraintes ;
-- 🧮 **Résolution exacte via PULP** ;
-- 💡 **Résolution approchée via ILS** ;
-- 🧠 **Prise en compte de scénarios complexes** :  
+- **Modélisation mathématique** complète du réseau et des contraintes ;
+- **Résolution exacte via le solveur CBC** ;
+- **Résolution approchée via ILS** ;
+- **Prise en compte de scénarios complexes** :  
   - *Scénario 1* : Équité entre usagers ;  
   - *Scénario 2* : Résilience face aux pannes ;  
   - (*Scénario 3* : Minimisation des pertes thermiques – non implémenté mais abordé).
 
-## 📦 Structure du dépôt
+## Structure du dépôt
 
 ```bash
 📁 PRONTO-HeatNetwork
